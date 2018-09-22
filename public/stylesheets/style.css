@@ -1,0 +1,20 @@
+i.icon {
+    font-size: 2em;
+}
+
+* {
+    display: block;
+}
+
+.container.main {
+    margin-top: 7em;
+}
+
+.wide.column {
+    margin-top: 4em;
+}
+
+.huge.header {
+    text-align: center;
+}
+
